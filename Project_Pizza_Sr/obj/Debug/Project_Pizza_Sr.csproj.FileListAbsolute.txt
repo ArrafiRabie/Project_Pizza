@@ -1,0 +1,11 @@
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\bin\Debug\Project_Pizza_Sr.exe.config
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\bin\Debug\Project_Pizza_Sr.exe
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\bin\Debug\Project_Pizza_Sr.pdb
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.csproj.AssemblyReference.cache
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.Properties.Resources.resources
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.csproj.GenerateResource.cache
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.csproj.CoreCompileInputs.cache
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.exe
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.pdb
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.Login_Page.resources
+C:\Users\INFO\Desktop\Application_Rabie\Project_Pizza_Sr\Project_Pizza_Sr\obj\Debug\Project_Pizza_Sr.Pizza_Order.resources
